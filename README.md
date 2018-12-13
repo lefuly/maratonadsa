@@ -1,2 +1,2 @@
-# maratonadsa
+# MaratonaDSA
 Maratona Data Science - Dezembro
